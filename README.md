@@ -1,2 +1,1 @@
-# python3.py
-Python3.py |X1_INTERNET
+python3.py python3.py 
